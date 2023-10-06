@@ -1,5 +1,5 @@
 {
-    "name": "frequenc1/php-osc",
+    "name": "davydevries/php-osc",
     "type": "library",
     "description": "Open Sound Control (OSC) Client Library for PHP",
     "authors": [
